@@ -1,4 +1,27 @@
-# Making App. and Application.
+# bboard
+- B. Board is Basic Base Biz
+- Dev.+Kit
+
+> FrontenD
+> BackenD
+> Store
+
+- DevTools: Sublime Text, Atom, VisualStudio Code
+- Lang
+
+|Lang | env. |
+| --- | --- |
+|JavaScript | node.js |
+|Java | JVM |
+|C# | CLR |
+|VB | CLR |
+|Ruby |  |
+|Python |  | 
+|Scala |  |
+|Go |  |
+
+
+## Making App. and Application.
 - App's for Phone, Tablet.
  - use [React](https://facebook.github.io/react/)
 - Application's for Desktop.
@@ -14,3 +37,4 @@
   - DB on Rest API
    - use FireBase
    - use Express.js <-> Node.js <-> MongoDB
+#
